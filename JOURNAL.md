@@ -14,4 +14,4 @@ I also decided to use a lot of global labels because, previously, tracking wires
 
 <img width="2294" height="1308" alt="image" src="https://github.com/user-attachments/assets/4b0adc09-4651-405e-acb6-f9e15942eec4" />
 
-**Total time spent: 30 Minutes**
+**Total time spent: 41 Minutes**
